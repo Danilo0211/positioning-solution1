@@ -59,7 +59,7 @@
 /* DESKTOP */
 @media all and (min-width: 1200px) {
   .topnav {
-    width: 80%;
+    width: 100%;
   }
 }
 
